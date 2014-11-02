@@ -1,0 +1,11 @@
+D:\StudentHack\HelloWorld\GestureRecognition\bin\Debug\GestureRecognition.dll
+D:\StudentHack\HelloWorld\GestureRecognition\bin\Debug\GestureRecognition.pdb
+D:\StudentHack\HelloWorld\GestureRecognition\bin\Debug\LeapCSharp.NET4.0.dll
+D:\StudentHack\HelloWorld\GestureRecognition\obj\Debug\GestureRecognition.csprojResolveAssemblyReference.cache
+D:\StudentHack\HelloWorld\GestureRecognition\obj\Debug\GestureRecognition.dll
+D:\StudentHack\HelloWorld\GestureRecognition\obj\Debug\GestureRecognition.pdb
+D:\StudentHack\HelloWorld\GestureRecognition\bin\Debug\MySql.Data.Entity.EF5.dll
+D:\StudentHack\HelloWorld\GestureRecognition\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\StudentHack\HelloWorld\GestureRecognition\bin\Debug\MySql.Fabric.Plugin.dll
+D:\StudentHack\HelloWorld\GestureRecognition\bin\Debug\MySql.Data.dll
+D:\StudentHack\HelloWorld\GestureRecognition\bin\Debug\MySql.Web.dll

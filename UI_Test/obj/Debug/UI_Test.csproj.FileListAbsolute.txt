@@ -1,0 +1,36 @@
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\bin\Debug\UI_Test.exe.config
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\bin\Debug\UI_Test.exe
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\bin\Debug\UI_Test.pdb
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\obj\Debug\UI_Test.csprojResolveAssemblyReference.cache
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\obj\Debug\UI_Test.MainForm.resources
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\obj\Debug\UI_Test.csproj.GenerateResource.Cache
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\obj\Debug\UI_Test.exe
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\obj\Debug\UI_Test.pdb
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\bin\Debug\RestSharp.dll
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\bin\Debug\Twilio.Api.dll
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\bin\Debug\TwilioSharp.dll
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\bin\Debug\RestSharp.xml
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\bin\Debug\Twilio.Api.pdb
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\bin\Debug\Twilio.Api.xml
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\bin\Debug\TwilioSharp.pdb
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\hicks_000\Documents\SharpDevelop Projects\UI_Test\UI_Test\bin\Debug\GestureRecognition.dll
+D:\StudentHack\HelloWorld\UI_Test\obj\Debug\UI_Test.csprojResolveAssemblyReference.cache
+D:\StudentHack\HelloWorld\UI_Test\obj\Debug\UI_Test.MainForm.resources
+D:\StudentHack\HelloWorld\UI_Test\obj\Debug\UI_Test.csproj.GenerateResource.Cache
+D:\StudentHack\HelloWorld\UI_Test\obj\Debug\UI_Test.exe
+D:\StudentHack\HelloWorld\UI_Test\obj\Debug\UI_Test.pdb
+D:\StudentHack\HelloWorld\UI_Test\bin\Debug\UI_Test.exe.config
+D:\StudentHack\HelloWorld\UI_Test\bin\Debug\UI_Test.exe
+D:\StudentHack\HelloWorld\UI_Test\bin\Debug\UI_Test.pdb
+D:\StudentHack\HelloWorld\UI_Test\bin\Debug\GestureRecognition.dll
+D:\StudentHack\HelloWorld\UI_Test\bin\Debug\RestSharp.dll
+D:\StudentHack\HelloWorld\UI_Test\bin\Debug\Twilio.Api.dll
+D:\StudentHack\HelloWorld\UI_Test\bin\Debug\TwilioSharp.dll
+D:\StudentHack\HelloWorld\UI_Test\bin\Debug\GestureRecognition.pdb
+D:\StudentHack\HelloWorld\UI_Test\bin\Debug\RestSharp.xml
+D:\StudentHack\HelloWorld\UI_Test\bin\Debug\Twilio.Api.pdb
+D:\StudentHack\HelloWorld\UI_Test\bin\Debug\Twilio.Api.xml
+D:\StudentHack\HelloWorld\UI_Test\bin\Debug\TwilioSharp.pdb
+D:\StudentHack\HelloWorld\UI_Test\obj\Debug\UI_Test.Properties.Resources.resources
+D:\StudentHack\HelloWorld\UI_Test\obj\Debug\UI_Test.Training.TrainingForm.resources

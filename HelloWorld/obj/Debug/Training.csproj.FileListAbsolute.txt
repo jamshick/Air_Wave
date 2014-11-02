@@ -1,0 +1,9 @@
+D:\StudentHack\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\StudentHack\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\StudentHack\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\StudentHack\HelloWorld\HelloWorld\bin\Debug\GestureRecognition.dll
+D:\StudentHack\HelloWorld\HelloWorld\bin\Debug\LeapCSharp.NET4.0.dll
+D:\StudentHack\HelloWorld\HelloWorld\bin\Debug\GestureRecognition.pdb
+D:\StudentHack\HelloWorld\HelloWorld\obj\Debug\Training.csprojResolveAssemblyReference.cache
+D:\StudentHack\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\StudentHack\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
